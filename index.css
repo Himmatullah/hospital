@@ -1,0 +1,65 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    
+}
+.navbar-nav{
+   
+}
+.container{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 729px;
+    background-size: cover;
+    background-color: #ececec;
+    background-image: url("images/smiling_woman.png");
+}
+
+li{
+    list-style: none;
+    display: inline;
+    padding: 14px 16px;
+    color: #737373;    
+}
+
+li a{
+    text-decoration: none;    
+}
+#contact{
+    background-color: #FC724D;
+    color: white;
+    
+}
+.heading-left{
+    margin-right: auto;
+    margin-left: 400px;
+    padding-top: 160px;
+}
+button{
+    background-color: #FC724D;
+    border: none;
+    padding: 16px;
+}
+
+
+.layout2{
+    
+    background-color: white;
+    margin: 20px;
+    padding: 100px;
+}
+
+.practice{
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+    align-items: start;
+    border: 3px dashed blu;
+}
+.aks{
+    display: flex;
+    justify-content: space-around;
+    align-items: start;
+    flex-direction: row;
+}
